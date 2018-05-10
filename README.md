@@ -1,4 +1,4 @@
-GvG Reminder: 
+vG Reminder: 
 - Mindestpunktzahl 20.000. Je mehr desto besser!
 Voretztes GvG:
 GvG Platzierung 154:, 639,699 -- 2x60k+, 1x 50k+, 5x40k+, 4x30k+, 2x20k+, 4x10k+, 1x<10k
